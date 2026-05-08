@@ -28,14 +28,14 @@ body {
 #mern {
 	width: 30%;
 	height: 75px;
-	background-color: orange;
+	background-color: rgb(243, 127, 27);
 	order: 2;
 }
 
 #acciojob {
 	width: 75%;
 	height: 50px;
-	background-color: slateblue;
+	background-color: rgb(98, 110, 227);
 	margin: 0 auto;
 	order: 3;
 }
@@ -43,7 +43,7 @@ body {
 #buisness-analytics {
 	width: 40%;
 	height: 50px;
-	background-color: seagreen;
+	background-color: rgb(17, 150, 126);
 	order: 4;
 	align-self: flex-end;
 }
