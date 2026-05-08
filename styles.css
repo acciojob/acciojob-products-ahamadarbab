@@ -20,7 +20,7 @@ body {
 #dsa {
 	width: 50%;
 	height: 50px;
-	background-color: maroon;
+	background-color: rgb(137, 0, 35);
 	align-self: center;
 }
 
@@ -32,19 +32,21 @@ body {
 }
 
 #acciojob {
-	width: 75%;
+	/* width: 75%; */
 	height: 50px;
 	background-color: rgb(98, 110, 227);
 	margin: 0 auto;
 	order: 1;
+	flex-basis: 75%;
 }
 
 #buisness-analytics {
-	width: 40%;
+	/* width: 40%; */
 	height: 50px;
 	background-color: rgb(17, 150, 126);
 	order: 2;
 	align-self: flex-end;
+	flex-basis: 40%;
 }
 
 #spring {
