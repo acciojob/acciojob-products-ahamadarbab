@@ -18,10 +18,11 @@ body {
 }
 
 #dsa {
-	width: 50%;
+	/* width: 50%; */
 	height: 50px;
 	background-color: rgb(137, 0, 35);
 	align-self: center;
+	flex-basis: 50%;
 }
 
 #mern {
@@ -47,6 +48,7 @@ body {
 	order: 2;
 	align-self: flex-end;
 	flex-basis: 40%;
+	margin-right: 10px;
 }
 
 #spring {
@@ -54,5 +56,4 @@ body {
 	height: 75px;
 	background-color: crimson;
 	order: 2;
-	margin-left: 10px;
 }
